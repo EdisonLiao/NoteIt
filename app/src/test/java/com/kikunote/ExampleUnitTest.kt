@@ -1,4 +1,4 @@
-package com.kikunote
+package com.good.noteit
 
 import org.junit.Test
 
